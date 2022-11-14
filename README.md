@@ -1,5 +1,6 @@
 <h2> Hi, I'm Strike!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Backend Developer 👀
+<p><em>Israeli Programmer 📘<br>
+  Backend Developer 👀
   </br>Dev & Co-Owner @ <a href="https://bwil.ml">Bedwars IL</a>
 </em></p>
 
