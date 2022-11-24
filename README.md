@@ -5,7 +5,6 @@
 </em></p>
 
 [![Twitter: @DevStrike_](https://img.shields.io/twitter/follow/DevStrike_?style=social)](https://twitter.com/DevStrike_)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Strike24](https://img.shields.io/github/followers/Strike24?label=follow&style=social)](https://github.com/Strike24)
 
 
