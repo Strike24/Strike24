@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 An Israeli Developer<br>⚙️ Working a lot with the Spigot API (Minecraft Development)<br>Web Developer - React, Astro ❤️<br>🤖 Coding Discord Bots with Discord.js (Nodejs Package)<br>🔴 Minecraft Youtuber (2.5k)<br>💖 Love To Code - Always glad to help :)
+🧑‍💻 An Israeli Developer<br>⚙️ Working a lot with the Spigot API (Minecraft Development)<br>💼 Web Developer - React, Astro ❤️<br>🤖 Coding Discord Bots with Discord.js (Nodejs Package)<br>🔴 Minecraft Youtuber (2.5k)<br>💖 Love To Code - Always glad to help :)
 
 
 ## 🌐 Socials:
