@@ -1,5 +1,10 @@
 # 💫 About Me:
-An Israeli Developer, specializes in web development (react, nextjs) and java development.<br>
-Only **15 years old**,
-A student in the **Open Univerisity of Israel.**
-
+An Israeli Programmer, **16 years old** 🎈<br>
+Knowledge in: 
+* Web (javascript, html, css, react, nextjs)
+* Java
+* C
+* Python
+  
+A student in the **Open Univerisity of Israel.** 🎓<br>
+Completed successfuly: Introduction to Mathematics, Discrete Mathematics, Introduction to Computer Science Using Java, System Programming Laboratory, Calculus I
