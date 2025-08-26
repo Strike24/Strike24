@@ -1,10 +1,10 @@
-# 💫 About Me:
-An Israeli Programmer, **16 years old** 🎈<br>
+## 💫 About Me
+Israeli Programmer, 16 years old 🎈<br>
+Coding from a young age, passionate about frontend / backend development<br><br>
 Knowledge in: 
-* Web (javascript, html, css, react, nextjs)
+* Web (react, nextjs, nodejs)
 * Java
-* C
+* Ansi C
 * Python
   
-A student in the **Open Univerisity of Israel.** 🎓<br>
-Completed successfuly: Introduction to Mathematics, Discrete Mathematics, Introduction to Computer Science Using Java, System Programming Laboratory, Calculus I
+A student in the **Open Univerisity of Israel.** (BSc CS) 🎓<br>
