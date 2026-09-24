@@ -1,6 +1,6 @@
 ## About Me
-Israeli Programmer, 17 years old.<br>
-Coding from a young age, passionate about frontend / backend development<br>
+Aspiring Israeli Programmer and Security Researcher, 17 years old.<br>
+Interested in Low-Level programming and Binary Exploitation challenges.<br>
 A student in the **Open University of Israel.** (BSc CS) 🎓<br>
 
 My blog to document my journey: https://strike24.github.io/
